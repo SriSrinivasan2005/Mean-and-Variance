@@ -1,9 +1,7 @@
-#  Mean and variance of a discrete  distribution
+### NAME: SRI SRINIVASAN K
+### REG.NO.: 212224220104
 
-### NAME: Sri Srinivasan.K
-### REG: 212224220104
-### DATE: 29/04/2025
-#
+#  Mean and variance of a discrete  distribution
 
 # Aim : 
 

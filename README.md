@@ -1,5 +1,5 @@
 ### NAME: SRI SRINIVASAN K
-### REG.NO.: 212224220104
+### REG.NO: 212224220104
 
 #  Mean and variance of a discrete  distribution
 
